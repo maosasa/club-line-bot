@@ -1,6 +1,6 @@
 # club-line-bot
 
-# botの機能
+## botの機能
 
 入力
 
